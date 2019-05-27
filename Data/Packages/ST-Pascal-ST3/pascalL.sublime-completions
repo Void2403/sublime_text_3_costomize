@@ -1,0 +1,37 @@
+{
+	"scope": "source.pascal",
+	"completions":
+	[
+		"pascal",
+
+		{ "trigger": "uses", "contents": "uses" },		
+		{ "trigger": "inc", "contents": "inc($1);" },		
+		{ "trigger": "forward", "contents": "forward;" },		
+		{ "trigger": "external", "contents": "external;" },		
+
+		{ "trigger": "Shortint", "contents": "Shortint" },
+		{ "trigger": "Integer", "contents": "Integer" },
+		{ "trigger": "Longint", "contents": "Longint" },		
+		{ "trigger": "Byte", "contents": "Byte" },		
+		{ "trigger": "Word", "contents": "Word" },		
+		
+		{ "trigger": "Boolean", "contents": "Boolean" },		
+		{ "trigger": "WordBool", "contents": "WordBool" },		
+		{ "trigger": "LongBool", "contents": "LongBool" },		
+		{ "trigger": "ByteBool", "contents": "ByteBool" },		
+		
+		{ "trigger": "Real", "contents": "Real" },		
+		{ "trigger": "Single", "contents": "Single" },		
+		{ "trigger": "Double", "contents": "Double" },		
+		{ "trigger": "Extended", "contents": "Extended" },		
+		{ "trigger": "Comp", "contents": "comp" },		
+		
+		{ "trigger": "String", "contents": "String" },		
+		{ "trigger": "Char", "contents": "Char" },		
+		{ "trigger": "const", "contents": "const" },		
+		{ "trigger": "array", "contents": "array[$1..$2] of" },		
+
+		{ "trigger": "Length", "contents": "Length($1)" },
+		{ "trigger": "with", "contents": "with $1 do\nbegin\n\t${2}\nend;" }
+	]
+}

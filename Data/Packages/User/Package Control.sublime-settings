@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"A File Icon",
+		"Agola Color Schemes",
+		"ayu",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"ChineseLocalizations",
+		"Color Scheme - Creamy",
+		"Color Scheme - Eazy Light",
+		"Color Scheme - Nice Blue Soda",
+		"Color Scheme - Thunderstorm",
+		"LiveReload",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Seti_UI",
+		"SublimeGDB"
+	]
+}

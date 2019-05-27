@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+function ${1:FunctionName}($2): ${3:Integer};
+${4}begin
+	$0
+end;
+]]></content>
+	<description>declaration</description>
+    <tabTrigger>function</tabTrigger>
+    <scope>source.pascal</scope>
+</snippet>

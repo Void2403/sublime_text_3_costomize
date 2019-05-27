@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+#13#10
+]]></content>
+	<description>newline</description>
+    <tabTrigger>newline</tabTrigger>
+    <scope>source.pascal</scope> 
+</snippet>
+

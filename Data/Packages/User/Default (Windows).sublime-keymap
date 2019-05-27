@@ -1,0 +1,6 @@
+[
+{"keys": ["f9"], "command": "build", "args": {"variant": "build"}} ,
+{"keys": ["f11"], "command": "build", "args": {"variant": "Run"}} ,
+{"keys": ["f10"], "command": "build", "args": {"variant": "Run without build"}} ,
+{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]

@@ -1,0 +1,4 @@
+{
+    "workingdir":"${folder:${file}}",
+    "commandline":"g++ -g -std=c++11 ${file} -o ${file_base_name} && gdb --interpreter=mi --args ./${file_base_name}",
+}

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+property ${1:PropertyName}: ${2:WideString} read ${3:F}${1} write ${4:F}${1};$0
+]]></content>
+	<description>property</description>
+    <tabTrigger>property</tabTrigger>
+    <scope>source.pascal</scope> 
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[result := ${1:expression};${0}]]></content>
+	<description>Assign result</description>
+    <tabTrigger>result</tabTrigger>
+    <scope>source.pascal</scope>
+</snippet>

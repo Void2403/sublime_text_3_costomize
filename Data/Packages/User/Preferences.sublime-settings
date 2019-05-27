@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Nice Blue Soda/Nice Blue Soda.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Seti_orig.sublime-theme"
+}

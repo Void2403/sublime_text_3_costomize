@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippet>
+    <content><![CDATA[
+if ${1:expression} then 
+begin
+	$0
+end
+else 
+begin
+	$0
+end;
+]]></content>
+	<description>statement with else</description>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.pascal</scope> 
+</snippet>

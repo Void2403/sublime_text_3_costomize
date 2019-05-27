@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+program ${1:ProgramName};
+
+procedure Main();
+begin
+	${2}
+end;
+
+begin
+	Main();
+end.
+
+]]></content>
+	<description>with main procedure</description>
+    <tabTrigger>program</tabTrigger>
+    <scope>source.pascal</scope>
+</snippet>
