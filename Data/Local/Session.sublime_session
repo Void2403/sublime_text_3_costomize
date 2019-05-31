@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3207,
-	"last_window_id": 6,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 454.0,
+		"new_window_height": 579.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -87,9 +87,11 @@
 			},
 			"file_history":
 			[
+				"/F/grh/Sublime_Text_Build_3207/Data/Packages/Default/profile.py",
+				"/F/grh/5.27/stone.cpp",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/CustomPATH/CustomPATH.sublime-settings",
-				"/F/grh/5.27/sub.cpp",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/User/CustomPATH.sublime-settings",
+				"/F/grh/5.27/sub.cpp",
 				"/F/grh/PortableGit/home/guanrh/profile",
 				"/F/grh/PortableGit/etc/profile",
 				"/F/grh/5.27/README.md",
@@ -105,7 +107,7 @@
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -119,6 +121,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"}\n",
+					";)\n",
 					"home",
 					"# normalize",
 					"# normalize HOME",
@@ -140,7 +144,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -158,7 +162,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -198,7 +202,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1149.0
 	},
 	"windows":
 	[
@@ -284,10 +288,12 @@
 			},
 			"file_history":
 			[
+				"/F/grh/5.27/sub.cpp",
+				"/F/grh/5.27/substd.cpp",
+				"/F/grh/Sublime_Text_Build_3207/Data/Packages/Default/profile.py",
 				"/F/grh/5.27/stone.cpp",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/CustomPATH/CustomPATH.sublime-settings",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/User/CustomPATH.sublime-settings",
-				"/F/grh/5.27/sub.cpp",
 				"/F/grh/PortableGit/home/guanrh/profile",
 				"/F/grh/PortableGit/etc/profile",
 				"/F/grh/5.27/README.md",
@@ -303,7 +309,7 @@
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -317,6 +323,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"}\n",
+					";)\n",
 					"home",
 					"# normalize",
 					"# normalize HOME",
@@ -342,11 +350,16 @@
 					"sheets":
 					[
 					]
+				},
+				{
+					"sheets":
+					[
+					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -361,11 +374,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -384,11 +404,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,748,588,236,1244",
+			"position": "0,2,1,-32000,-32000,-1,-1,824,40,187,1205",
 			"project": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
