@@ -211,15 +211,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/F/grh/5.27/stone.cpp",
-					"settings":
-					{
-						"buffer_size": 561,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/C++/C++ Single File.sublime-build",
 			"build_system_choices":
@@ -293,6 +284,7 @@
 			},
 			"file_history":
 			[
+				"/F/grh/5.27/stone.cpp",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/CustomPATH/CustomPATH.sublime-settings",
 				"/F/grh/Sublime_Text_Build_3207/Data/Packages/User/CustomPATH.sublime-settings",
 				"/F/grh/5.27/sub.cpp",
@@ -347,37 +339,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/F/grh/5.27/stone.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 561,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										257,
-										257
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 90.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
